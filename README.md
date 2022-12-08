@@ -1,7 +1,7 @@
 # Rep1
 Projects:
 
-1.Market Basket Analysis: Dataset-> Breadbasket_DMS.csv
+1.Market Basket Analysis
 
 2.Russia Ukraine war Data Analysis and visualization.
 
