@@ -7,6 +7,6 @@ Projects:
 2.Russia Ukraine war Data Analysis and visualization.
 
 
-3.Music Genre Classification
+3.Audio signal processing and classification for Music Genre Classification using Deep learning.
 
 
